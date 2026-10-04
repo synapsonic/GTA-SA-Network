@@ -1,0 +1,2 @@
+# username|account_id|password_kdf_hash|role(0-3)|score
+# Do not put plaintext passwords here.

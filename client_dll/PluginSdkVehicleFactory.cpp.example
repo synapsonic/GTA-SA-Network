@@ -1,0 +1,10 @@
+/*
+ Copy to PluginSdkVehicleFactory.cpp only after selecting the exact plugin-sdk GTA SA revision,
+ then define GTANET_PLUGINSDK_VEHICLE_FACTORY in CMake.
+
+ Required contract:
+   CVehicle* gtanet::CreateSdkVehicle(uint16_t model);
+
+ Choose CAutomobile / CBike / CBoat / etc. from CModelInfo vehicle type and use the constructor
+ signature exposed by YOUR plugin-sdk checkout. Do not hard-code executable addresses here.
+*/

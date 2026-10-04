@@ -1,0 +1,7 @@
+# GTA Network dedicated server
+name=My GTA San Andreas Server
+port=7777
+max_players=32
+password=
+welcome=Welcome to my GTA server!
+announce_join_leave=true

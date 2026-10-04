@@ -1,0 +1,2 @@
+add_executable(GTASANetworkLauncher main.cpp)
+target_link_libraries(GTASANetworkLauncher PRIVATE comdlg32)

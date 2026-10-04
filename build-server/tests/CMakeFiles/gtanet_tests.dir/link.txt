@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gtanet_tests.dir/link.d CMakeFiles/gtanet_tests.dir/protocol_tests.cpp.o -o gtanet_tests

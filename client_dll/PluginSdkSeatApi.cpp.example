@@ -1,0 +1,8 @@
+/*
+ Revision adapter required only when GTANET_PLUGINSDK_SEAT_API is enabled.
+
+ bool GtaNetAssignPedSeat(CPed* ped, CVehicle* vehicle, int8_t seat);
+ void GtaNetRemovePedFromVehicle(CPed* ped, CVehicle* vehicle);
+
+ Implement using the task/vehicle APIs exposed by the exact plugin-sdk checkout.
+*/
